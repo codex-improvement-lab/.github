@@ -4,6 +4,7 @@ Codex Improvement Lab builds small, open-source tools for concrete jobs that sho
 
 | When the task looks like this | Try | First result |
 | --- | --- | --- |
+| A screen recording contains a one-frame UI jump or visual return | [Frameblink](https://github.com/codex-improvement-lab/frameblink) | Ranked before / candidate / after frames and source-bound review JSON |
 | A web page overflows and the agent needs a small case to hand off | [Breakcase](https://github.com/codex-improvement-lab/breakcase) | An offline HTML/CSS reproduction, screenshots, and a recheck report |
 | Cleaning CSV join keys may create unintended matches | [JoinDelta](https://github.com/codex-improvement-lab/joindelta) | Counts and source-row witnesses for the relationships each policy adds |
 | Two UI screenshots and a declared limit need a readable release image | [Releaseframe](https://github.com/codex-improvement-lab/releaseframe) | A local comparison PNG, ALT text, editable post draft, and review JSON |
